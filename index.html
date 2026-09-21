@@ -91,7 +91,7 @@
         statusText.textContent = "No music files were found";
         return false;
       }
-      audio.src = "music/" + encodeURIComponent(queue[queuePosition]).replace(/%2F/g, "/");
+      audio.src = encodeURIComponent(queue[queuePosition]).replace(/%2F/g, "/");
       audio.load();
       songLoaded = true;
       return true;
