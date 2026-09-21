@@ -1,6 +1,11 @@
-// Add each MP3 filename from the music folder to this list.
-// Song names are never displayed on the student page.
+// Song names are not displayed by the student music player.
 window.SONG_FILES = [
+  "01 Happy.mp3",
+  "01 Party In the U.S.A.mp3",
+  "01 Uptown Funk.mp3",
+  "02 Blank Space.mp3",
+  "02 Get the Party Started.mp3",
+  "02 The Greatest.mp3",
   "03 Boom Boom Pow.mp3",
   "03 Let Me Love You.mp3",
   "03 Lips Are Movin.mp3",
@@ -20,5 +25,33 @@ window.SONG_FILES = [
   "07 Party Like a Rock Star.mp3",
   "07 Steal My Girl.mp3",
   "07 Thrift Shop.mp3",
-  "07 We Don't Talk Anymore.mp3"
+  "07 We Don't Talk Anymore.mp3",
+  "08 Best Day of My Life.mp3",
+  "08 Let's Get It Started.mp3",
+  "08 My Way.mp3",
+  "08 The Heart Wants What It Wants.mp3",
+  "09 Gangnam Style.mp3",
+  "09 Heroes (We Could Be).mp3",
+  "09 Moves Like Jagger.mp3",
+  "09 Scars to Your Beautiful.mp3",
+  "10 All Time Low.mp3",
+  "10 I'm Not the Only One.mp3",
+  "10 Moves Like Jagger.mp3",
+  "10 Who Let the Dogs Out.mp3",
+  "11 All About That Bass.mp3",
+  "11 Ghost.mp3",
+  "11 Single Ladies.mp3",
+  "11 Starving.mp3",
+  "12 Gold.mp3",
+  "12 Hey Ya!.mp3",
+  "12 The Fox (What Does the Fox Say-).mp3",
+  "12 Waves.mp3",
+  "13 Bills.mp3",
+  "13 I Lived.mp3",
+  "13 Kidz Bop Shuffle.mp3",
+  "13 Send My Love.mp3",
+  "14 Make Some Noise!.mp3",
+  "14 Thinking Out Loud.mp3",
+  "14 This Town.mp3",
+  "24K Magic.mp3"
 ];
